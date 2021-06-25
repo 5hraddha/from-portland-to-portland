@@ -1,4 +1,5 @@
 .lead {
+  box-sizing: border-box;
   margin: 0;
   padding: 58px 148px 92px;
   display: flex;
