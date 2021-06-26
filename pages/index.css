@@ -1,9 +1,12 @@
+/* stylesheet from the external vendor */
 @import url(../vendor/normalize.css);
 @import url(../vendor/fonts/fonts.css);
 
+/* stylesheets for the block - page */
 @import url(../blocks/page/page.css);
 @import url(../blocks/page/__wrapper/page__wrapper.css);
 
+/* stylesheets for the block - header */
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__lang-item/header__lang-item.css);
 @import url(../blocks/header/__lang-link/header__lang-link.css);
@@ -11,10 +14,13 @@
 @import url(../blocks/header/__langs-list/header__langs-list.css);
 @import url(../blocks/header/__langs/header__langs.css);
 
+/* stylesheets for the block - logo */
 @import url(../blocks/logo/logo.css);
 
+/* stylesheets for the block - content */
 @import url(../blocks/content/content.css);
 
+/* stylesheets for the block - lead */
 @import url(../blocks/lead/lead.css);
 @import url(../blocks/lead/__caption/lead__caption.css);
 @import url(../blocks/lead/__figure/lead__figure.css);
@@ -22,6 +28,7 @@
 @import url(../blocks/lead/__subtitle/lead__subtitle.css);
 @import url(../blocks/lead/__title/lead__title.css);
 
+/* stylesheets for the block - intro */
 @import url(../blocks/intro/intro.css);
 @import url(../blocks/intro/__item/intro__item.css);
 @import url(../blocks/intro/__item/_bold/intro__item_bold.css);
@@ -30,11 +37,15 @@
 @import url(../blocks/intro/__text/intro__text.css);
 @import url(../blocks/intro/__title/intro__title.css);
 
+/* stylesheets for the block - photo-grid */
 @import url(../blocks/photo-grid/photo-grid.css);
 @import url(../blocks/photo-grid/__item/photo-grid__item.css);
 @import url(../blocks/photo-grid/__list/photo-grid__list.css);
 
+/* stylesheets for the block - places */
 @import url(../blocks/places/places.css);
+
+/* stylesheets for the block - place */
 @import url(../blocks/place/place.css);
 @import url(../blocks/place/__image/place__image.css);
 @import url(../blocks/place/__link/place__link.css);
@@ -44,13 +55,16 @@
 @import url(../blocks/place/__url-heading/place__url-heading.css);
 @import url(../blocks/place/__website/place__website.css);
 
+/* stylesheets for the block - semi-transparent-link */
 @import url(../blocks/semi-transparent-link/semi-transparent-link.css);
 
+/* stylesheets for the block - cover */
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/cover/__link/cover__link.css);
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);
 @import url(../blocks/cover/__title/cover__title.css);
 
+/* stylesheets for the block - footer */
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
 @import url(../blocks/footer/__item/footer__item.css);
