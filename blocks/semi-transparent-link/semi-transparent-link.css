@@ -1,0 +1,8 @@
+.semi-transparent-link {
+  transition: opacity .5s ease-out;
+}
+
+.semi-transparent-link:hover {
+  cursor: pointer;
+  opacity: .8;
+}
