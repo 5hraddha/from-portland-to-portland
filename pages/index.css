@@ -31,7 +31,8 @@
 /* stylesheets for the block - intro */
 @import url(../blocks/intro/intro.css);
 @import url(../blocks/intro/__item/intro__item.css);
-@import url(../blocks/intro/__item/_bold/intro__item_bold.css);
+@import url(../blocks/intro/__item-text/intro__item-text.css);
+@import url(../blocks/intro/__item-text/_bold/intro__item-text_bold.css);
 @import url(../blocks/intro/__list/intro__list.css);
 @import url(../blocks/intro/__subtitle/intro__subtitle.css);
 @import url(../blocks/intro/__text/intro__text.css);
