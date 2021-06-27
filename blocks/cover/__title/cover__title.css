@@ -5,6 +5,7 @@
   font-size: 72px;
   line-height: 1.056;
   font-weight: 900;
+  text-rendering: optimizeLegibility;
   z-index: 1;
 }
 
