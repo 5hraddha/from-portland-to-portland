@@ -18,7 +18,7 @@
   }
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 500px) {
   .lead__title {
     margin: 0 0 16px;
     padding: 0 16px;
